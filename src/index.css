@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #e0e7ef 0%, #f5f7fa 100%);
+  font-family: 'Inter', 'SF Pro', 'Segoe UI', Arial, sans-serif;
+  color: #222;
+}
+
+* {
+  box-sizing: border-box;
+}
