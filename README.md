@@ -1,12 +1,39 @@
-# React + Vite
+# ✅ To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and modern **To-Do List Web App** built with **React** and styled using UI.  
+Easily track your tasks with a beautiful interface and seamless user experience across all devices.
 
-Currently, two official plugins are available:
+### 🔗 Live Demo
 
-- [host](https://durgavamsi2004.github.io/todo-list/) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit the App](https://chipper-sunshine-db3e7b.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ✅ Add, edit, delete tasks
+- ✅ Mark tasks as complete/incomplete
+- ✅ Filter by status: All / Completed / Pending
+- ✅ Persistent storage using `localStorage`
+- ✅  UI (blurred background, soft shadows)
+- ✅ Responsive design for mobile, tablet, and desktop
+- ✅ Dark mode support
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, CSS
+- **Styling**: Custom CSS with Glassy UI (glassmorphism)
+
+
+---
+
+## 📦 Getting Started (Run Locally)
+
+```bash
+git clone https://github.com/durgavamsi2004/tddo-list.git
+cd todo-list
+npm install
+npm run dev  # or npm start
